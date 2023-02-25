@@ -44,23 +44,26 @@
 				width: 70px; 
 				height: 70px; 
 				float: left;
+				line-height: 10px;
 			}
 			#logo p {vertical-align: middle;
-				 font-family: Arial;}
+				 font-family: Arial;
+				 line-height: 10px;
+				}
 }
 	</style>
 <body>
 
 <navbar class="navbar navbar-expand-sm bg-pink navbar-white">
   <!-- Brand/logov qwynzyyy -->
-  <a class="navbar-brand" href="#">
+  <!--<a class="navbar-brand" href="#">
     <img src="joplanlogo.jpg" alt="JOPLAN" style="width:90px;">
   </a>
-  <div>
+  <div>-->
     <div id="logo">
         <a href="#"><div id="logo p"></div></a>
-        <p>JOPLAN<br>
-        Feel at Home, Away From Home :)</p>
+        <p><h1>JOPLAN<h1><br>
+		<h5>Feel at Home, Away From Home :)</h5></p>
     </div>
     <div id="">
 
